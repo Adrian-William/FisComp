@@ -5,7 +5,6 @@ import os
 
 file_path = os.path.join(os.path.dirname(__file__), 'caos.txt')
 y, x = np.loadtxt(file_path)
-print(file_path)
 color = np.ones(len(x))
 
 
