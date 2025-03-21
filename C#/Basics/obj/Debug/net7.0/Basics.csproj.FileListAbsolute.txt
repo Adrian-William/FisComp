@@ -1,0 +1,14 @@
+/home/adrian/Documentos/C#/Basics/obj/Debug/net7.0/Basics.GeneratedMSBuildEditorConfig.editorconfig
+/home/adrian/Documentos/C#/Basics/obj/Debug/net7.0/Basics.AssemblyInfoInputs.cache
+/home/adrian/Documentos/C#/Basics/obj/Debug/net7.0/Basics.AssemblyInfo.cs
+/home/adrian/Documentos/C#/Basics/obj/Debug/net7.0/Basics.csproj.CoreCompileInputs.cache
+/home/adrian/Documentos/C#/Basics/bin/Debug/net7.0/Basics
+/home/adrian/Documentos/C#/Basics/bin/Debug/net7.0/Basics.deps.json
+/home/adrian/Documentos/C#/Basics/bin/Debug/net7.0/Basics.runtimeconfig.json
+/home/adrian/Documentos/C#/Basics/bin/Debug/net7.0/Basics.dll
+/home/adrian/Documentos/C#/Basics/bin/Debug/net7.0/Basics.pdb
+/home/adrian/Documentos/C#/Basics/obj/Debug/net7.0/Basics.dll
+/home/adrian/Documentos/C#/Basics/obj/Debug/net7.0/refint/Basics.dll
+/home/adrian/Documentos/C#/Basics/obj/Debug/net7.0/Basics.pdb
+/home/adrian/Documentos/C#/Basics/obj/Debug/net7.0/Basics.genruntimeconfig.cache
+/home/adrian/Documentos/C#/Basics/obj/Debug/net7.0/ref/Basics.dll
