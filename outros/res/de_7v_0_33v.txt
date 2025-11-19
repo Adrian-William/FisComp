@@ -1,0 +1,12 @@
+Voltage values at maxima:
+[15.88 21.06 26.42 32.02]
+
+Voltage values at minima:
+[17.36 22.66 27.48 32.68]
+
+Voltage values at medias:
+[16.62 21.86 26.95 32.35]
+
+Diferença entre picos 1 e 0: 5.24 V
+Diferença entre picos 2 e 1: 5.09 V
+Diferença entre picos 3 e 2: 5.40 V
